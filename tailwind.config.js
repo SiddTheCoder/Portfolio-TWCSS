@@ -4,7 +4,7 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        happyMonkey: ['"Happy Monkey"', 'cursive'],
+        happyMonkey: ['"Happy Monkey"',],
         silkscreen: ['"Silkscreen"', 'cursive'], // Add the new font family
       },
       backgroundImage: {
