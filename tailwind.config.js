@@ -4,8 +4,10 @@ module.exports = {
   theme: {
     extend: {
       fontFamily: {
-        happyMonkey: ['"Happy Monkey"',],
-        silkscreen: ['"Silkscreen"', 'cursive'], // Add the new font family
+        happyMonkey: ['"Happy Monkey"','cursive'],
+        silkscreen: ['"Silkscreen"', 'cursive'],
+        caveat: ['Caveat', 'cursive'],
+        exo: ['Exo', 'sans-serif'], // Add the new font family
       },
       backgroundImage: {
         'hero-pattern': "url('./asset/mmbg (1).png')",
